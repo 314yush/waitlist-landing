@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const handleClick = () => {
-    window.location.href = "hhttps://app.deform.cc/form/83ae6a90-7d88-4932-981b-ce2f1d76dc20";
+    window.location.href = "https://app.deform.cc/form/83ae6a90-7d88-4932-981b-ce2f1d76dc20";
   };
 
   return (
